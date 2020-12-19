@@ -10,6 +10,11 @@ a{
     display: flex;
     justify-content: center;
 }
+h1{
+    display: none;
+    text-align: center;
+    font-size: 10px;
+}
 img{
     width: 225px;
     height: 225px;
